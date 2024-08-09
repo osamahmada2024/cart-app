@@ -1,0 +1,10 @@
+nav.fixed{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+html  body{
+    margin-top: 150px;
+    margin-bottom:50px ;
+}
